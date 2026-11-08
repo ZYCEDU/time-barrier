@@ -1,0 +1,9 @@
+{
+  "name": "time-barrier",
+  "displayName": "\u65f6\u95f4\u7ed3\u754c",
+  "author": "Custom",
+  "description": "\u7eaf\u52a0\u901f\u5efa\u7b51\uff1a\u534a\u5f8430\u683c\u300110\u500d\u901f\u5ea6\uff1b\u65e0\u9700\u7535\u529b\u3001\u7269\u54c1\u6216\u6db2\u4f53\u3002",
+  "version": "1.0.1",
+  "minGameVersion": "160",
+  "hidden": false
+}
